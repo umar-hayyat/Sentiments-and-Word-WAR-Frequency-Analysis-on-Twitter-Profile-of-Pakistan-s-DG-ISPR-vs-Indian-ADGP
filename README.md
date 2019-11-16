@@ -12,3 +12,6 @@ Additional Directorate General of Public Information (India)
 (4) TextBlob Library for Sentiment Analysis
 (5) WordCloud for Word frequency analysis
 
+
+You can read this article on Medium.
+https://medium.com/@ranaumarhayyat/sentiments-and-word-war-frequency-analysis-on-twitter-profile-of-pakistans-dg-ispr-vs-ed322b83084e
