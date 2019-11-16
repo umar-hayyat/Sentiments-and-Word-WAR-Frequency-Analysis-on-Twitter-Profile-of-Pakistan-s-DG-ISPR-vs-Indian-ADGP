@@ -23,12 +23,19 @@ Sentiment Analysis Results:
 
 Pakistan's DG-ISPR Sentiments
 
-<img>file:///F:/Data%20Science/Tweets%20Sentiment%20Analysis/DG-ISPR/Sentiments.png</img>
+<p align="center">
+  <img src="file:///F:/Data%20Science/Tweets%20Sentiment%20Analysis/DG-ISPR/Sentiments.png" width="350">
+</p>
+
 
 
 Indian ADGPI Sentiments
 
-file:///F:/Data%20Science/Tweets%20Sentiment%20Analysis/DG-ISPR/India%20(1).png
+<p align="center">
+
+  <img src="file:///F:/Data%20Science/Tweets%20Sentiment%20Analysis/DG-ISPR/India%20(1).png" width="350">
+</p>
+
 
 
 Step 5:
